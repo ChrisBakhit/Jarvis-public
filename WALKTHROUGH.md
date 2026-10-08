@@ -2,6 +2,8 @@
 
 Start here if you are not the owner. This repository is the public destination for JARVIS. It explains what the project is willing to say in public. It does not contain a runtime you can install.
 
+JARVIS is one assistant for the home, the computers, and ordinary orders such as dinner. This repository is not that runtime yet.
+
 ## Read in this order
 
 1. This file.
