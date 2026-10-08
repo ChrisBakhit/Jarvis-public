@@ -1,6 +1,7 @@
 # JARVIS public edition
 
 First read: [WALKTHROUGH.md](WALKTHROUGH.md), then [HANDOFF.md](HANDOFF.md).
+See [docs/EDITIONS.md](docs/EDITIONS.md).
 
 This repository is the public destination for JARVIS. It currently contains project status and release guidance, not a working runtime.
 
