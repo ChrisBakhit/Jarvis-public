@@ -48,6 +48,8 @@ A public homelab showcase in October 2026 suggested the boundaries below. They a
 - Keep a household password store separate from the assistant's credential broker.
 - Record a trial of two tools as one evaluation. The survivor is still a single candidate.
 
+[Community ideas](docs/COMMUNITY-IDEAS.md) is inspiration for a later sanitized clone, not a runtime.
+
 ## When this page should change
 
 Update this path when a reviewed export actually lands: name the manifest, say which seams replaced personal configuration, and keep [HANDOFF.md](HANDOFF.md) honest about what is still not accepted. Until that export exists, the useful review is the boundary in `HANDOFF.md`, not a search for missing source.
